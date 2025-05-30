@@ -108,7 +108,7 @@
 &trans     &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &mkp MB4    &mmv MOVE_DOWN   &kp PG_UP  &kp END    &kp UP            &kp HOME           &trans   &kp F12
 &trans     &trans  &trans     &trans     &trans     &mkp MB5    &mmv MOVE_LEFT   &kp PG_DN  &kp LEFT   &kp DOWN          &kp RIGHT          &trans   &trans
 &trans     &trans  &trans     &trans     &trans     &trans      &mmv MOVE_RIGHT  &kp MINUS  &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans   &trans
-&trans     &trans  &trans     &trans     &trans     &trans      &mkp LCLK        &trans     &trans     &kp DELETE        &trans             &trans
+&trans     &trans  &trans     &trans     &trans     &trans      &mkp LCLK        &trans     &trans     &trans            &trans             &trans
             >;
 
             display-name = "layer1";
