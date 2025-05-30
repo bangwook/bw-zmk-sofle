@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - '9'
   - '0'
-  - $$mdi:backspace-reverse-outline$$
+  - PgUp
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - PgDn
   - $$mdi:apple-keyboard-caps$$
   - {t: A, h: LEFT WIN}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer_2
   - LANG HANGEUL
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:backspace-reverse-outline$$
   layer_1:
   - {t: '`', s: '~'}
   - F1
