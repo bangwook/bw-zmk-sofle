@@ -109,6 +109,16 @@
             bindings = <&kp LC(X)>;
             key-positions = <42 41>;
         };
+
+        Display_R {
+            bindings = <&Display_R>;
+            key-positions = <35 36>;
+        };
+
+        Display_L {
+            bindings = <&Display_L>;
+            key-positions = <35 34>;
+        };
     };
 
     keymap {
