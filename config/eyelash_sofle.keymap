@@ -97,7 +97,7 @@
 
         CTRL_C {
             bindings = <&kp LC(C)>;
-            key-positions = <42 41>;
+            key-positions = <41 42 43>;
         };
 
         CTRL_V {
@@ -107,7 +107,7 @@
 
         CTRL_X {
             bindings = <&kp LC(X)>;
-            key-positions = <42 41 43>;
+            key-positions = <42 41>;
         };
     };
 
