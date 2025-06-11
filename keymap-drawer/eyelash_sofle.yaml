@@ -269,3 +269,7 @@ combos:
   k: Ctl+V
 - p: [42, 41]
   k: Ctl+X
+- p: [35, 36]
+  k: '&Display_R'
+- p: [35, 34]
+  k: '&Display_L'
