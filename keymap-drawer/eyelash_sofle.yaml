@@ -263,3 +263,7 @@ layers:
 combos:
 - p: [56, 60]
   k: {t: layer_3, h: '$$mdi:gesture-tap-hold$$'}
+- p: [42, 41]
+  k: Ctl+C
+- p: [42, 43]
+  k: Ctl+V
