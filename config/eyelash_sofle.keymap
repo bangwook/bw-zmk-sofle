@@ -94,6 +94,16 @@
             bindings = <&sl 3>;
             key-positions = <56 60>;
         };
+
+        CTRL+C {
+            bindings = <&kp LC(C)>;
+            key-positions = <42 41>;
+        };
+
+        CTRL+V {
+            bindings = <&kp LC(V)>;
+            key-positions = <42 43>;
+        };
     };
 
     keymap {
