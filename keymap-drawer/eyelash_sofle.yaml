@@ -267,3 +267,5 @@ combos:
   k: Ctl+C
 - p: [42, 43]
   k: Ctl+V
+- p: [55, 42]
+  k: Ctl+X
