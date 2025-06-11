@@ -95,17 +95,17 @@
             key-positions = <56 60>;
         };
 
-        CTRL+C {
+        CTRL_C {
             bindings = <&kp LC(C)>;
             key-positions = <42 41>;
         };
 
-        CTRL+V {
+        CTRL_V {
             bindings = <&kp LC(V)>;
             key-positions = <42 43>;
         };
 
-        CTRL+X {
+        CTRL_X {
             bindings = <&kp LC(X)>;
             key-positions = <55 42>;
         };
