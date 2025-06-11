@@ -104,6 +104,11 @@
             bindings = <&kp LC(V)>;
             key-positions = <42 43>;
         };
+
+        CTRL+X {
+            bindings = <&kp LC(X)>;
+            key-positions = <55 42>;
+        };
     };
 
     keymap {
