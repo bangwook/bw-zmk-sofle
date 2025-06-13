@@ -165,9 +165,9 @@ layers:
   - '&mkp MB5'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&Display_L'
+  - '&Display_all'
+  - '&Display_R'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -269,7 +269,3 @@ combos:
   k: Ctl+V
 - p: [42, 41]
   k: Ctl+X
-- p: [35, 36]
-  k: '&Display_R'
-- p: [35, 34]
-  k: '&Display_L'
