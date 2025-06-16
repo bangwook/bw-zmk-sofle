@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer_2
   - LANG HANGEUL
-  - Ctl+C
-  - Ctl+V
+  - '{'
+  - '}'
   layer_1:
   - {t: '`', s: '~'}
   - F1
@@ -269,3 +269,5 @@ combos:
   k: Ctl+V
 - p: [42, 41]
   k: Ctl+X
+- p: [40, 41]
+  k: Ctl+Z
